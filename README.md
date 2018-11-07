@@ -1,4 +1,7 @@
 # CSC-412-Maze
+
+CSC 412 Intro to AI
+
 This repository uses different searching strategies to solve a maze represented by a 2D array.
 
 The purpose of this program is to create an agent that can process a maze. 
