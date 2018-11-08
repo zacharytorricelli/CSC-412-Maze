@@ -63,8 +63,8 @@ int main()
 	int choice = 0;
 
 
-	// While loop driven menu that continues until 5 is entered
-	while (choice != 5)
+	// Do-while loop driven menu that continues until 5 is entered
+	do
 	{
 
 
@@ -145,7 +145,7 @@ int main()
 		}
 
 
-	}
+	} while (choice != 5);
 	
 	
 	// Closes the input file
