@@ -8,8 +8,8 @@
 * The maze will be a 10x10 grid. 
 * The entry will be designated with an 'E', and the exit will be designated with an 'X'.
 * The path that can be traveled in the maze will be designated with a 'P', and the walls
-*	will be designated with a 'W'. All perimeter locations other than the entrance and exit
-*		will be a 'W'.
+* will be designated with a 'W'. All perimeter locations other than the entrance and exit
+* will be a 'W'.
 *
 *
 */
